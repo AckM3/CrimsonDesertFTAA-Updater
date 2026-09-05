@@ -1,4 +1,4 @@
-# 0.4.0 Self-Contained Companion Updater Test
+# 1.0.0 Self-Contained Companion Updater Test
 
 `CrimsonDesertFTAA-Updater.exe` is a self-contained, fail-closed ASI installer
 and offline profile generator. It reads the installed `CrimsonDesert.exe`,
