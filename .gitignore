@@ -1,0 +1,21 @@
+# Build products and local IDE state
+/build*/
+/.vs/
+/.vscode/
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.exe
+*.dll
+*.asi
+*.log
+*.profile
+*.disabled-backup*
+*.tmp
+*.zip
+*.user
+# Local secrets must never be published
+.env
+.env.*
