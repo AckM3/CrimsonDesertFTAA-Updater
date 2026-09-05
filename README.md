@@ -62,9 +62,4 @@ Microsoft tools, and an ASI loader are not included or covered by that notice.
 Obtain the loader separately from the
 [Ultimate ASI Loader project](https://github.com/ThirteenAG/Ultimate-ASI-Loader).
 
-## Uploading this repository
-
-See [GITHUB_UPLOAD.md](GITHUB_UPLOAD.md). Upload the extracted source files and
-folders, not just a ZIP. Nothing in this package publishes or emails anything
-automatically.
 
