@@ -2,7 +2,7 @@
 
 ## Scope and source map
 
-This repository contains the v0.4.0 companion updater source and its embedded
+This repository contains the v1.0.0 companion updater source and its embedded
 ASI source. It is not a malware certification or an assertion that Nexus has
 approved the files. The quarantine message alone does not identify its cause.
 
