@@ -22,7 +22,6 @@ modify, improve, update, or redistribute it without restriction.
 - [Behavior, file access, and review map](docs/NEXUS_REVIEW.md)
 - [Verification status and release identity](PROJECT_STATUS.md)
 - [Original technical documentation](docs/COMPANION_UPDATER.md)
-- [Release checklist](RELEASE_CHECKLIST.md)
 
 This package preserves all 19 files from
 `CrimsonDesert-FTAA-v0.4.0-self-contained-updater-source-test.zip` unchanged.
