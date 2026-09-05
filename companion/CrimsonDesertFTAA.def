@@ -1,4 +1,0 @@
-LIBRARY CrimsonDesertFTAA
-
-EXPORTS
-    CrimsonDesertFTAACompanionContract DATA
